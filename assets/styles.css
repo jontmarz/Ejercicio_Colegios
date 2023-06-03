@@ -1,0 +1,6 @@
+.d-flex{ display: flex; }
+.justify-center { justify-content: center; }
+.flex-column { flex-direction: column; }
+.mx-auto { margin-left: auto; margin-right: auto; }
+.position-relative { position: relative !important; }
+.d-none { display: none; }
